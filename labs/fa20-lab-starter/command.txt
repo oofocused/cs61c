@@ -1,0 +1,2 @@
+java -jar tools/venus.jar -cc lab03/cc_test.s #启用检测
+java -jar logisim-evolution.jar
