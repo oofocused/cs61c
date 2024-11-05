@@ -1350,7 +1350,7 @@ end TCL_Generic;
       <a name="select" val="5"/>
       <a name="width" val="32"/>
     </comp>
-    <comp lib="2" loc="(1680,910)" name="Demultiplexer">
+    <comp lib="2" loc="(1680,900)" name="Demultiplexer">
       <a name="enable" val="false"/>
       <a name="facing" val="west"/>
       <a name="select" val="5"/>
@@ -1735,10 +1735,8 @@ end TCL_Generic;
     <wire from="(1610,1040)" to="(1640,1040)"/>
     <wire from="(1620,1050)" to="(1620,1530)"/>
     <wire from="(1620,1050)" to="(1640,1050)"/>
-    <wire from="(1660,1070)" to="(1660,1120)"/>
-    <wire from="(1680,910)" to="(1690,910)"/>
-    <wire from="(1690,900)" to="(1690,910)"/>
-    <wire from="(1690,900)" to="(1700,900)"/>
+    <wire from="(1660,1060)" to="(1660,1120)"/>
+    <wire from="(1680,900)" to="(1700,900)"/>
     <wire from="(200,1780)" to="(220,1780)"/>
     <wire from="(200,1960)" to="(220,1960)"/>
     <wire from="(200,2130)" to="(220,2130)"/>
